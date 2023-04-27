@@ -1,1 +1,2 @@
-# exercises-php
+# 🪄 Exercises PHP 8
+
